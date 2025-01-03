@@ -1,0 +1,9 @@
+*.DS_Store
+*.pyc
+.vscode
+train2014.zip
+val2014.zip
+mml/wandb/*
+mml/weights/*
+mml/models/*
+mml/data/*
