@@ -1,2 +1,9 @@
 data/*
 ckpts/*
+assignments2/train2014.zip
+assignments2/val2014.zip
+assignments2/mml/wandb/*
+assignments2/mml/weights/*
+assignments2/mml/models/*
+assignments2/mml/data/*
+assignments2/mml/datasets/*
